@@ -16,7 +16,8 @@ public class CruiseBookingSystem
 {
 
 	public static void main( String[] args ) throws IOException
-    {
+    {//comments initialization
+		ArrayList<Customers> a3=new ArrayList<>();
 
        ArrayList<Customers> a=new ArrayList<>();
 
